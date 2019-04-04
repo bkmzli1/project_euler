@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="delitel:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="delitel.jar">
+      <element id="module-output" name="delitel" />
+    </root>
+  </artifact>
+</component>
