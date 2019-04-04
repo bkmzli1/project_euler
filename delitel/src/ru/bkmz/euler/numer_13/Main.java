@@ -11,8 +11,8 @@ public class Main {
             numer[i] = numerc[i];
         }
         long sum = 0;
-        for (int i = 0; i < numer.length; i++) {
-            sum += numer[i];
+        for (long l : numer) {
+            sum += l;
         }
         System.out.println(sum);
         numbers = String.valueOf(sum);
