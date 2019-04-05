@@ -1,7 +1,5 @@
 package ru.bkmz.euler.numer_2;
 
-import java.util.Scanner;
-
 /**
  * Каждый следующий элемент ряда Фибоначчи получается при сложении двух предыдущих. Начиная с 1 и 2, первые 10 элементов будут:
  *
@@ -11,20 +9,24 @@ import java.util.Scanner;
  * */
 public class Main {
     public static void main(String[] args) {
+        System.out.println(fibonachi(12));
+    }
+
+    public static long fibonachi(long n) {
         int a = 1;
         int b = 1;
-        int n;
-        int sum_fib;
-        double sum=0;
-        Scanner s = new Scanner(System.in);
-        n = s.nextInt();
-        for(int i = 0; i < n; i++){
+
+        int sum_fib = 0;
+        double sum = 0;
+
+        for (int i = 0; i < n; i++) {
             sum_fib = a + b;
             a = b;
             b = sum_fib;
             //System.out.print(sum_fib + " ");
             sum = sum + sum_fib;
         }
-        System.out.println(sum);
+        //System.out.println(sum);
+        return sum_fib;
     }
 }
