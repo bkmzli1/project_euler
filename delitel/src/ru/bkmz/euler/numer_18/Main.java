@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
 
         //triangle.txt with large data set works as well
-        Scanner scanner = new Scanner(new File("simple_triangle.txt"));
+        Scanner scanner = new Scanner(new File("res\\simple_triangle.txt"));
 
         ArrayList<int[]> triangle = new ArrayList<>();
 

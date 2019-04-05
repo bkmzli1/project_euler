@@ -20,28 +20,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_16/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_18/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_17/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="578">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_15/Main.java">
+        <entry file="file://$PROJECT_DIR$/res/triangle.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state relative-caret-position="170">
+              <caret line="10" column="18" lean-forward="true" selection-end-line="99" selection-end-column="299" />
             </state>
           </provider>
         </entry>
@@ -97,6 +91,9 @@
         <option value="$PROJECT_DIR$/src/ru/bkmz/euler/numer_17/Main.java" />
         <option value="$PROJECT_DIR$/src/ru/bkmz/euler/numer_16/Main.java" />
         <option value="$PROJECT_DIR$/src/ru/bkmz/euler/numer_15/Main.java" />
+        <option value="$PROJECT_DIR$/src/ru/bkmz/euler/numer_18.java" />
+        <option value="$PROJECT_DIR$/src/ru/bkmz/euler/numer_18/Main.java" />
+        <option value="$PROJECT_DIR$/res/triangle.txt" />
       </list>
     </option>
   </component>
@@ -144,13 +141,6 @@
               <item name="delitel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="euler" type="462c0819:PsiDirectoryNode" />
-              <item name="numer_7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="delitel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="delitel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="euler" type="462c0819:PsiDirectoryNode" />
               <item name="numer_15" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -173,7 +163,7 @@
               <item name="delitel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="euler" type="462c0819:PsiDirectoryNode" />
-              <item name="numer_17" type="462c0819:PsiDirectoryNode" />
+              <item name="numer_18" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.bkmz.euler.numer_15.Main" />
       <module name="delitel" />
@@ -244,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.bkmz.euler.numer_13.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.bkmz.euler.numer_18.Main" />
       <module name="delitel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.bkmz.euler.numer_13.*" />
+          <option name="PATTERN" value="ru.bkmz.euler.numer_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,19 +274,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +307,7 @@
       <workItem from="1554296876089" duration="613000" />
       <workItem from="1554298014079" duration="3000" />
       <workItem from="1554384466010" duration="12151000" />
-      <workItem from="1554435989809" duration="2374000" />
+      <workItem from="1554435989809" duration="2638000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1554384826668</created>
@@ -403,17 +393,24 @@
       <option name="project" value="LOCAL" />
       <updated>1554437727904</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="project_euler">
+      <created>1554438572113</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554438572113</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49223000" />
+    <option name="totallyTimeSpent" value="49487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27363896" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27363896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -677,10 +674,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_15/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delitel.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_18/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/triangle.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="true" selection-end-line="99" selection-end-column="299" />
         </state>
       </provider>
     </entry>
