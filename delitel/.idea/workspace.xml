@@ -6,12 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f18e19e-fe10-435b-a99f-5843273ec649" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ru/bkmz/euler/numer_15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/bkmz/euler/numer_16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/bkmz/euler/numer_17/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0f18e19e-fe10-435b-a99f-5843273ec649" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,26 +22,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_16/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_17/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="136">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_17/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_15/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="238">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -99,9 +94,9 @@
         <option value="$PROJECT_DIR$/res/numer_13.txt" />
         <option value="$PROJECT_DIR$/src/ru/bkmz/euler/numer_13/Main.java" />
         <option value="$PROJECT_DIR$/src/ru/bkmz/euler/numer_14/Main.java" />
-        <option value="$PROJECT_DIR$/src/ru/bkmz/euler/numer_15/Main.java" />
-        <option value="$PROJECT_DIR$/src/ru/bkmz/euler/numer_16/Main.java" />
         <option value="$PROJECT_DIR$/src/ru/bkmz/euler/numer_17/Main.java" />
+        <option value="$PROJECT_DIR$/src/ru/bkmz/euler/numer_16/Main.java" />
+        <option value="$PROJECT_DIR$/src/ru/bkmz/euler/numer_15/Main.java" />
       </list>
     </option>
   </component>
@@ -157,6 +152,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="euler" type="462c0819:PsiDirectoryNode" />
               <item name="numer_15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="delitel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="delitel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="euler" type="462c0819:PsiDirectoryNode" />
+              <item name="numer_15" type="462c0819:PsiDirectoryNode" />
+              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="delitel" type="b2602c69:ProjectViewProjectNode" />
@@ -314,7 +317,7 @@
       <workItem from="1554296876089" duration="613000" />
       <workItem from="1554298014079" duration="3000" />
       <workItem from="1554384466010" duration="12151000" />
-      <workItem from="1554435989809" duration="1659000" />
+      <workItem from="1554435989809" duration="2374000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1554384826668</created>
@@ -393,11 +396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554395318710</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="project_euler">
+      <created>1554437727901</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1554437727904</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48508000" />
+    <option name="totallyTimeSpent" value="49223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -412,7 +422,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -653,24 +663,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_15/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_17/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_16/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_17/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/bkmz/euler/numer_15/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="238">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
